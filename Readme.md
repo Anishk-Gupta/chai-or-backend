@@ -10,3 +10,6 @@ This is a video series on backend with javascript
 
 #link - https://chatgpt.com/share/6a83257f-4334-83ee-a5dd-98f698396b14
 above link is realted to about utils folder and if you want to read more then you choose this link - https://share.gemini.google/u3qHaTfcPm5l     
+
+# link - thoda sa discussion kiya humne refresh token , access token ka 
+https://share.gemini.google/oJj96tbDBT2W
