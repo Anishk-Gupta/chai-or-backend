@@ -13,3 +13,7 @@ above link is realted to about utils folder and if you want to read more then yo
 
 # link - thoda sa discussion kiya humne refresh token , access token ka 
 https://share.gemini.google/oJj96tbDBT2W
+
+# link- discussion about multer and cloudinary 
+
+https://share.gemini.google/lKSVJQAOSJdf
